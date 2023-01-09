@@ -1,5 +1,3 @@
-![It's finally done! GitHub User Search App. Challenge by Frontend Mentor. Coded by Vanza Setia](./images/banner.jpg)
-
 # GitHub User Search App
 
 This is my first API challenge from Frontend Mentor. In this project, I learned about asynchronous programming and worked with a 3rd-party API.
@@ -21,7 +19,6 @@ My users should be able to:
 
 ## Links
 
-- [Live Review](https://officialdevfinder.netlify.app/)
 - [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/github-user-search-app-html-css-sass-javascript-async-await-nBt6_lQS5M)
 
 ## Screenshots
