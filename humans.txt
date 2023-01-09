@@ -1,9 +1,8 @@
 /* MYSELF */
-Coder: Vanza Setia
-Contact: venusbumi2 [at] gmail.com
-Twitter: @vanzasetia
-GitHub: https://github.com/vanzasetia
-From: Bandar Lampung, Lampung, Indonesia
+Coder: pijeimart
+Contact: reactdeveloper1990@gmail.com
+GitHub: https://github.com/pijeimart
+From: Texas, Dallas
 
 /* THANKS */
 UI Design: Frontend Mentor

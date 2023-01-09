@@ -268,7 +268,7 @@ Here is the an example of the user's data:
 
 ```json
 {
-  "blog": "https://www.linkedin.com/in/vanzasetia/"
+  "blog": "https://www.linkedin.com/in/bill-fowler-43592a243/"
 }
 ```
 
@@ -458,7 +458,6 @@ As a side note, It is important to know that a placeholder is not a replacement 
 
 Now, the floating label is not the best solution. The best solution is to provide a visible label all the time. In other words, the `<label>` is always acting like a label.
 
-Example of visible label pattern — [accessible-form | CodePen](https://codepen.io/vanzasetia/pen/yLjQbYZ)
 
 Another reason is when the `<label>` becomes a label, the logo and the `<label>` are not having enough whitespace between them. They are too close together.
 
@@ -485,10 +484,7 @@ Resources:
 
 ## Author
 
-- Frontend Mentor - [@vanzasetia](https://frontendmentor.io/profile/vanzasetia)
-- Twitter - [@vanzasetia](https://twitter.com/vanzasetia)
-- Code Newbie - [@vanzasetia](https://community.codenewbie.org/vanzasetia)
-- Want to see me on other platforms? [Check my linktree!](https://linktr.ee/vanzasetia)
+- Github - [@pijeismart](https://github.com/pijeismart)
 
 ## Acknowledgements
 
